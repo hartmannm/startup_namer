@@ -7,7 +7,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Welcome to Flutter',
+      title: 'Startup Name Generator',
       home: Scaffold(
         appBar: AppBar(
           title: Text('Startup Name Generator'),
